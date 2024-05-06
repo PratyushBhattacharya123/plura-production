@@ -32,7 +32,7 @@ const TextComponent = ({ element }: Props) => {
 
   const styles = element.styles;
 
-  //WE ARE NOT ADDING DRAG DROP
+  //NOT ADDED DRAG DROP
   return (
     <div
       style={styles}
